@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **fine-tuning LLMs**
 
-- 📫 How to reach me **kritinv@princeton.edu**
+- 📫 How to reach me **kvongthongsri@gmail.com**
 
 - ⚡ Fun fact **I grew up in Thailand and lived there for 18 years**
 
