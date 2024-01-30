@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kritin Vongthongsri</h1>
-<h3 align="center">A software engineer who is passionate about AI/ML technologies</h3>
 
 - 🌱 I’m currently learning **fine-tuning LLMs**
 
