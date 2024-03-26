@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kritin Vongthongsri</h1>
 
-- ⚡ I love building **webapps** and **AI/ML tech**
+- ⚡ I love building **LLM-powered Apps**
   
-- 🌱 I’m currently learning **fine-tuning LLMs**
+- 🌱 I’m currently learning **LLM Eval**
 
 - 📫 How to reach me **kvongthongsri@gmail.com**
 
