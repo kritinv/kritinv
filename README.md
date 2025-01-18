@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kritin Vongthongsri</h1>
 
-- ⚡ I love building **LLM-powered Apps**
-  
-- 🌱 I’m currently learning **LLM Eval**
-
 - 📫 How to reach me **kvongthongsri@gmail.com**
 
 <h3 align="left">Prior experience in:</h3>
